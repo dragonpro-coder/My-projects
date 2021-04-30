@@ -1,0 +1,7 @@
+To use this there is no need for python or pygame
+You need to use pygame and python to run project script
+The file drawing is in .exe file
+if you run with instructinosn it will open command 
+promp and say what are keybinding
+and if you did not know you can move .exe file it will
+still work but do not del the original folder its important
